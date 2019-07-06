@@ -54,7 +54,7 @@ For [the_antlr_guy](https://twitter.com/the_antlr_guy), `my tweets` will display
 
 `my following` will display:
 
-<img src=img/parrt-follows.png width=800>
+<img src=img/parrt-follows.png width=320>
 
 Another example: [realdonaldtrump](https://twitter.com/realDonaldTrump), `my tweets` will display:
 
@@ -62,4 +62,4 @@ Another example: [realdonaldtrump](https://twitter.com/realDonaldTrump), `my twe
 
 `my following` will display:
 
-<img src=img/trump-follows.png width=800>
+<img src=img/trump-follows.png width=350>
